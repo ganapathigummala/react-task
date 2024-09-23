@@ -8,7 +8,43 @@ function App() {
 
   return (
     <>
-      <h1>Ganapathi G</h1>
+      <div className="task">
+        <h1>Task 1</h1>
+        <div>
+          
+        </div>
+      </div>
+      <div className="task">
+        <h1>Task 2</h1>
+        <div>
+          
+        </div>
+      </div>
+      <div className="task">
+        <h1>Task 3</h1>
+        <div>
+          
+        </div>
+      </div>
+      <div className="task">
+        <h1>Task 4</h1>
+        <div>
+          
+        </div>
+      </div>
+      <div className="task">
+        <h1>Task 5</h1>
+        <div>
+          
+        </div>
+      </div>
+      <div className="task">
+        <h1>Task 6</h1>
+        <div>
+          
+        </div>
+      </div>
+      
     </>
   )
 }
