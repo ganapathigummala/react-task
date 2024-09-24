@@ -28,10 +28,11 @@
     margin-top: 50px;
     width: 100%;
     padding: 50px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
     padding: 50px;
     border-radius: 10px;
     min-height: 500px;
+    background-color: #4ebbe7;
     
   }
 }
